@@ -28,7 +28,7 @@ def mr_wibu():
         time.sleep(5)
         put()
     if mr_tytyd=="n" or mr_tytyd=="N":
-        sys.exit(f"{W}[{R}!{W}] Exited With Program{abu}...{W}")
+        sys.exit(f"{W}[{R}!{W}] Exited With Program{abu}....{W}")
         time.sleep(5)
 
 def logo_taekyung():
